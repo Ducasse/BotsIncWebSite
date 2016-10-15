@@ -1,0 +1,51 @@
+Download
+
+Here are the ready to use environments as well as some notes to help you getting started
+
+Distributions
+
+July 2010 ReadyMac 10.5 and 10.6
+May 2005 ReadyMac
+May 2005 ReadyPC
+Ready Linux: to get a linux version you should install squeak via http://www.squeak.org/ then download the readyMac or readyPC file and use the (image and changes) provided there.
+I worked on a XO version. Ask me if you want to try to make it working. May be it still work.
+
+Old BotsInc Versions
+
+ReadyMac 02-2005
+ReadyPC 02-2005
+BotsInc including Miner old Distributions
+
+Here is an image that you can use with the environment above (just drop the .image file on the squeak executable). Pay attention that this is an old version (prior to the distribution 02-2005 below.
+
+Here is the old image that works on any platforms. OldJoeAndPica
+Here are the old chapters (that do not have been proofread). OldJoeAndExtraBotsIncChapter
+Solutions
+
+Solutions In Mac OSX Format Solutions In PC Format
+
+Getting started
+
+The environment used in this book has been developed to run on top of Squeak. Squeak is a rich and powerful Open Source multimedia environment written entirely in Smalltalk and freely available for most computer and operating systems at http://www.squeak.org. Note, however, that you will not be using the default Squeak distribution. Rather, you will be using a distribution that I have prepared for use with this book.
+
+Squeak runs exactly the same on all platforms. However to make your life a little easier, I have prepared several platform-dependent compressed files. The principle is exactly the same on a Mac, PC, or any other platform. The only differences are in the tools for file decompression and the way that you will invoke Squeak. Once you have obtained a file named ReadyToUse.zip, you decompress it and then drag the file named Ready.image (Mac) or Ready (PC) onto the Squeak application, and that does it! The file Ready[.image] contains the complete environment used in this book. Note that you may get files with slightly different names, but that should have no effect on how everything works.
+
+Installation on a Macintosh
+
+For installation on a Macintosh, you should have a ZIP archive file named readyToUse.zip. Normally, double clicking on the files icon should invoke the proper decompression software, such as StuffIt Expander. Once this archive has been decompressed, you should end up with four files. You should identify two files: the file named Ready.image and the Squeak application file (the one without a file extension in the figure it is named Squeak).
+
+Mac
+
+Installation under Windows
+
+For installation under Windows, you should have a ZIP archive file named readyToUse.zip. Once this archive has been decompressed using WinZip, you should end up with four files. You should identify two files: the file named Ready and the Squeak application file (the one without a file extension in the following figure; it is named Squeak).
+
+PC
+
+Opening the Environment
+
+To open the environment, drag the file Ready[.image] onto the Squeak application, that is, onto the file named Squeak, as shown in the following figure.
+
+Dragdrop
+
+The environment can be opened simply by double clicking on the image file. However, there are several disadvantages to this: You may have to identify the Squeak application, and sometimes another application may interfere and try to use the image file. Moreover, you can find yourself in trouble if you have multiple installations of different versions of Squeak. So I suggest that you always open the environment by dragging and dropping the image file onto the Squeak application file or an alias of it.

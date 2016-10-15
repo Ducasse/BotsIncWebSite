@@ -1,0 +1,13 @@
+Testimonials
+
+If you have some other testimonials, please send them to me. Thanks all for your warm words.
+
+I’m using the Bot Lab environment for three years and found it really valuable in teaching computer science concepts for a young audience (and even less young !). The bots commanded through balloon (as in comic strips) is a very nice introduction for young children, and when this aspect is well understood, you can use the Bot Workspace to teach the notion of script, a first step in programming languages. The Micro Browser allows children to add new behavior for their bots, and have fun with their creation. This three-layers tool - Balloon, Micro Workspace, Micro Browser - offers to the teacher a fun way to introduce gently the basis of object-oriented programming concepts. With Bots Inc, learning is playing ! ;-) Samir Saidani - University of Caen - France
+
+I am using the version of the book on your web site to teach my oldest daughter Becca some programming. She absolutely loves it. We are doing the Bot graphics right. My other kids are showing interest as well. My Fall semester schedule leaves me with almost no time free but in the Spring I hope to bring Squeak and your book to our elementary school’s "gifted" program. C. David Shaffer
+
+I recently started a course with 7th-graders (age about 13 years) with Stephane’s book - they love it. They all know about syntactic issues from maths - in a way they know that an expression in a formal language must be well formed. So they easily grasp the fact such as "there must be a colon after the message-name if an argument follows". Of cause they don’t really read the error-messages, they just see "there must be some error" and they remember the simple rules. Don’t underestimate Smalltalk —- it’s easy understandable because it has a simple and straight-forward design. Klaus Fuller - Germany
+
+We closed temporary the mailing-list.
+
+Now if you want to help getting the book freely accessible in your own language please contact us at stephane.ducasse@inria.fr

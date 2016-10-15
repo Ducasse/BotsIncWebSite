@@ -1,0 +1,23 @@
+An example
+
+I would like to show you the three levels offered in this book: direct interaction with robots, scripting them and programming them. For example imagine that you want to draw a square of 100 pixels size. Watch the videos.
+
+You can interact directly with one robot and send him messages: go: 100, turn: 90.....
+
+You can use the Bot workspace and write
+
+| r2d2 |
+r2d2 := Bot new.
+4 timesRepeat: 
+     [ r2d2 go: 100.
+      r2d2 turn: 90 ]
+Or you can define the method square using the Code Browser
+
+ square
+  
+    4 timesRepeat: 
+         [ self go: 100.
+          self turn: 90 ]
+Then you send the message square to a robot directly or using the Bot workspace
+
+ Bot new square

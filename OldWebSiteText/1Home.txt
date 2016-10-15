@@ -1,0 +1,15 @@
+BotsInc!
+
+Cover-mini
+
+Welcome to Bots Inc! BotsInc is the environment of the book Squeak: Learn Programming with Robots. With Bots Inc you will learn how to program robots in an interactive environment. Bots Inc proposes three teaching approaches: direct command of robots, scripting robots and programming robots. The book contains 24 chapters going step by step over topics with a lot of examples. Bots Inc is fun but it is not a toy, it teaches you 100% real programming. Bots Inc is built on top of the rich open-source multimedia Squeak environment. If you are interested in programming, I suggest to have a look at our new exciting project Pharo and its companion book PharoByExample.
+
+My goal is to explain key elementary programming concepts (such as loops, abstraction, composition, and conditionals) to novices of all ages. I believe that learning by experimenting and solving problems with fun is central to human knowledge acquisition. Therefore, I have presented programming concepts through simple but not trivial problems such as drawing golden rectangles or simulating animal behavior. The ideal reader I have in mind is an individual who wants to have fun programming. This person may be a teenager or an adult, a schoolteacher, or somebody teaching programming to children in some other organization. Such an individual does not have to be fluent in programming in any language. As a father of two young boys I also wrote this book for all the parents that want to have fun programming with their kids in a powerful interactive environment. Programming in Squeak is an interactive, fun but deep experience. The present book teaches elementary programming concepts, the following book will introduce a new fun environment and teach object-oriented programming. The second edition was released in November 2005.
+
+The environment that I developed is totally free and under the MIT open-source license. Here is the Apress official web site Apress website. But you can get the PDF for free here.
+
+The book received the Award of PCPlus magazine of September 2005. Pcplus The book received the Recommended Award of Bitwise in February 2006. Bitwiserecbanner
+
+If you want to help we are translating the book in several languages and need help.
+
+August 2010, Stéphane Ducasse (stephane.ducasse@inria.fr)
